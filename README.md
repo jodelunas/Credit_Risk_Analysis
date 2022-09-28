@@ -57,11 +57,21 @@
 <img width="672" alt="Undersampling_classification_report" src="https://user-images.githubusercontent.com/106006911/192806306-5943292d-a71b-46c5-b077-8ec447c8e29b.png">
 
 * High-risk prescision and F1 scores are both very low at 1%.
-* 
+* Low-risk preformed better with a precision score of 100% and F1 of 62%.
+
 ### Combination (Over and Under) Sampling
 
 <img width="180" alt="SMOTEENN_balanced_accuracy_score" src="https://user-images.githubusercontent.com/106006911/192806717-cf3ac237-e45b-4a70-b148-8e19584028d6.png">
 
+* The combination sampling was also under-preforming, with a balanced accuracy score of ~62%.
+
 <img width="676" alt="SMOTEENN_classification_report" src="https://user-images.githubusercontent.com/106006911/192806792-761fb5f7-4079-41d9-bb01-41a9c4e723e7.png">
+
+* High-risk also did poorly, with a precision of 1% and F1 of 2%
+* Low risk was better with a precision os 100% and F1 of 72%.
+
+### Summary
+
+Of all the tests preformed, Adaboost classifier preformed the best. The balanced accuracy score was very high at ~92%. The low-risk precision scores were also very high, leaving few high risk applicants mistaken for low-risk. This is ideal when looking for credit-risk. However, the low scores for high risk is allowing for a large number of false positives. This could cost the bank a lot in  missed revenue. My suggestion would be to look for a better option. 
 
 
