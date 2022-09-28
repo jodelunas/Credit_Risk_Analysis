@@ -28,4 +28,10 @@
 
 * Low-risk had much better results, with a precision score of 100% and a F1 score of 97%.
 
+### Naive Random Oversampling
+
+<img width="160" alt="NRO_balanced_accuracy_score" src="https://user-images.githubusercontent.com/106006911/192805265-a37edac7-b890-4c2a-a58f-51ad02f8b037.png">
+
+<img width="688" alt="NRO_classification_report" src="https://user-images.githubusercontent.com/106006911/192805369-09bb254e-00e6-4195-9efd-e4d450b54c87.png">
+
 ### 
