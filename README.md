@@ -2,6 +2,8 @@
 
 ## Overview
 
+The purpose of this challenge is to apply machine learning to predict credit-risk. Using a data set from LendingClub, oversample the data using the RandomOverSampler and SMOTE algorithms. Undersample the data with ClusterCentroids algorithm. The SMOTEENN algorithm is used for a combination of over and under resampling. BalancedRandomForestClassifier and EasyEnsembleClassifier are used to reduce bias to predict credit risk.
+
 ## Results
 
 ### Balanced Random Forest Classifier
@@ -72,6 +74,6 @@
 
 ### Summary
 
-Of all the tests preformed, Adaboost classifier preformed the best. The balanced accuracy score was very high at ~92%. The low-risk precision scores were also very high, leaving few high risk applicants mistaken for low-risk. This is ideal when looking for credit-risk. However, the low scores for high risk is allowing for a large number of false positives. This could cost the bank a lot in  missed revenue. My suggestion would be to look for a better option. 
+Of all the tests preformed, Adaboost classifier preformed the best. The balanced accuracy score was very high at ~92%. The low-risk precision scores were also very high, leaving few high risk applicants mistaken for low-risk. This is ideal when looking for credit-risk. Having a lot of loans approved for high-risk applicants could result in many not being paid back. However, the low scores for high risk is allowing for a large number of false positives. This could cost the bank a lot in  missed revenue. My suggestion would be to look for a better option. 
 
 
