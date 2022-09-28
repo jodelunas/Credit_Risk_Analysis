@@ -47,4 +47,10 @@
 
 <img width="672" alt="Undersampling_classification_report" src="https://user-images.githubusercontent.com/106006911/192806306-5943292d-a71b-46c5-b077-8ec447c8e29b.png">
 
-### 
+### Combination (Over and Under) Sampling
+
+<img width="180" alt="SMOTEENN_balanced_accuracy_score" src="https://user-images.githubusercontent.com/106006911/192806717-cf3ac237-e45b-4a70-b148-8e19584028d6.png">
+
+<img width="676" alt="SMOTEENN_classification_report" src="https://user-images.githubusercontent.com/106006911/192806792-761fb5f7-4079-41d9-bb01-41a9c4e723e7.png">
+
+
