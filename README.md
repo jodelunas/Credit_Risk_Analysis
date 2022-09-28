@@ -34,4 +34,11 @@
 
 <img width="688" alt="NRO_classification_report" src="https://user-images.githubusercontent.com/106006911/192805369-09bb254e-00e6-4195-9efd-e4d450b54c87.png">
 
+### SMOTE Oversampling
+
+<img width="146" alt="SMOTE_balanced_accuracy_score" src="https://user-images.githubusercontent.com/106006911/192805753-47196ebf-023f-496e-9825-2c3d00e1ed00.png">
+
+<img width="659" alt="SMOTE_classification_report" src="https://user-images.githubusercontent.com/106006911/192805841-bda54cf8-f7c7-4ee9-a06b-5a0a001b6db9.png">
+
 ### 
+
