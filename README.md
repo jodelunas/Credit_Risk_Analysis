@@ -40,5 +40,11 @@
 
 <img width="659" alt="SMOTE_classification_report" src="https://user-images.githubusercontent.com/106006911/192805841-bda54cf8-f7c7-4ee9-a06b-5a0a001b6db9.png">
 
-### 
+### Undersampling
 
+<img width="156" alt="Undersampling_balanced_accuracy_score" src="https://user-images.githubusercontent.com/106006911/192806239-18d79071-afd5-444b-8ddd-19183309e47b.png">
+
+
+<img width="672" alt="Undersampling_classification_report" src="https://user-images.githubusercontent.com/106006911/192806306-5943292d-a71b-46c5-b077-8ec447c8e29b.png">
+
+### 
